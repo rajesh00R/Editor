@@ -1,0 +1,39 @@
+#btn{
+	background-color: navy;
+	height:60px;
+	width:100%;
+	padding-top:15px;
+	padding-left: 40%;
+}
+
+#htmlbtn,#cssbtn,#jsbtn,#outputbtn{
+width:70px;
+height:30px;
+background-color: grey;
+color:white;
+}
+
+#editor{
+	height:600px;
+	width:100%;
+}
+#editor1,#editor2,#editor3{
+	float:left;
+	margin:2px;
+	height:500px;
+}
+#ed1,#ed2,#ed3{
+	background-color: #1C1C1C;
+	color:white;
+	height:100%;
+	width:100%;
+}
+#editor4{
+	float:left;
+	margin:2px;
+	border:2px solid black;
+	height:500px;
+	overflow-y:scroll;
+}
+
+
